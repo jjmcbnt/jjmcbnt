@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jj and I'm a Graphic Artist Beginner from Philippines.</h2>
+<h2 align="left">Hi 👋! My name is Jj and I'm a Graphic Artist Trainee from Philippines.</h2>
 
 ###
 
